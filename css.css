@@ -45,20 +45,20 @@ hr.content-divider {
     height: 5px;
 }
 
-#header {
+/*#header {
     background: url(./img/header.png);
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-}
+}*/
 
 #parallax-1 {
-    background: url(./img/1.png);
+    /*background: url(./img/1.png);
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: cover;*/
     border-top: 10px solid coral;
 }
 
@@ -67,11 +67,11 @@ hr.content-divider {
 }
 
 #parallax-2 {
-    background: url(img/2.png);
+    /*background: url(img/2.png);
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: cover;*/
     border-top: 10px solid yellow;
 }
 
