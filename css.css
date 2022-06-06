@@ -45,13 +45,14 @@ hr.content-divider {
     height: 5px;
 }
 
-/*#header {
-    background: url(./img/header.png);
+#header {
+    /*background: url(./img/header.png);
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
-}*/
+    background-size: cover;*/
+    background-color: blue;
+}
 
 #parallax-1 {
     /*background: url(./img/1.png);
@@ -59,6 +60,7 @@ hr.content-divider {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;*/
+    background-color: red;
     border-top: 10px solid coral;
 }
 
