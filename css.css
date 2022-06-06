@@ -46,12 +46,11 @@ hr.content-divider {
 }
 
 #header {
-    /*background: url(./img/header.png);
+    background: url(./img_header.jpeg);
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;*/
-    background-color: blue;
+    background-size: cover;
 }
 
 #parallax-1 {
